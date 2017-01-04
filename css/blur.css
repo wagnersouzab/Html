@@ -1,0 +1,19 @@
+body {
+	background: url(../images/patterns/blur.jpg) fixed no-repeat center center;
+}
+
+header, .blog_container, .page_container {
+	border-color: #666;
+}
+
+.footer_container {
+	background-image: url(../images/footer_arrow.png);
+}
+
+.portfolio_filter li.selected a, .portfolio_filter a:hover {
+	color: #F6D900;
+} 
+
+#work {
+	background: url(../images/blurred_content_bg.png);
+}
